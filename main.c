@@ -1,6 +1,6 @@
 
 /*
-NAME : NITHIN B.J
+NAME : Ragan P
 DATE : 15:12:2025
 TOPIC : INVERTED SEARCH PROJECT
 DESCRIPTION : This project implements an inverted search system in C that indexes words 
